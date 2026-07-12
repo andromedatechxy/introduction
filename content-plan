@@ -14,12 +14,10 @@ This repository serves as my learning portfolio and project archive. The followi
 * [ ] NAT & PAT
 what is NAT?
 How NAT Works?
-RFC 1918 Private Address Space
-Public IP vs Private IP
+NAT Translation Process
 * [ ] ACL (Access Control List)
 * [ ] VPN Configuration
 * [ ] DHCP & DNS Server
-* [ ] Network Troubleshooting Notes
 
 ---
 
