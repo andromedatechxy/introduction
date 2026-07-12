@@ -1,0 +1,38 @@
+# 👋 Hi, I'm Dylan
+
+🎓 Informatics Student | 🌐 Networking Enthusiast | 🔐 Cybersecurity Learner | 💻 Full-Stack Developer
+
+I'm passionate about building secure, scalable, and impactful technology. My interests include networking, cybersecurity, artificial intelligence, web development, and cloud computing. I enjoy learning new technologies, participating in projects, and solving real-world problems through software.
+
+### 🚀 Currently Learning
+
+* Network Administration & Computer Networks
+* Cybersecurity & Ethical Hacking
+* Artificial Intelligence & Computer Vision
+* Laravel & Full-Stack Web Development
+* Linux & System Administration
+
+### 🛠️ Tech Stack
+
+* **Languages:** Python, Java, C++, JavaScript, PHP, HTML, CSS
+* **Frameworks:** Laravel, Flutter
+* **Database:** MySQL
+* **Tools:** Git, GitHub, VS Code, Linux, Wireshark, Burp Suite, Roboflow, Figma
+
+### 📌 Interests
+
+* Cybersecurity
+* Networking
+* Artificial Intelligence
+* Cloud Computing
+* Open Source
+* Travel & Photography
+
+### 🎯 Goals
+
+* Build impactful open-source projects
+* Contribute to cybersecurity and networking communities
+* Continuously improve as a software engineer
+* Pursue international career opportunities in technology
+
+> *"Keep learning, keep building, and let your work speak for itself."*
