@@ -1,0 +1,141 @@
+# 📋 Content Plan
+
+This repository serves as my learning portfolio and project archive. The following roadmap outlines the projects and content I plan to publish.
+
+---
+
+# 🌐 Networking
+
+* [ ] Cisco Packet Tracer Labs
+* [ ] VLAN Configuration
+* [ ] Static & Dynamic Routing
+* [ ] OSPF Configuration
+* [ ] BGP Basics
+* [ ] NAT & PAT
+what is NAT?
+* [ ] ACL (Access Control List)
+* [ ] VPN Configuration
+* [ ] DHCP & DNS Server
+* [ ] Network Troubleshooting Notes
+
+---
+
+# 🔐 Cybersecurity
+
+* [ ] Linux Privilege Escalation Notes
+* [ ] Windows Privilege Escalation Notes
+* [ ] Nmap Cheat Sheet
+* [ ] Wireshark Analysis
+* [ ] Burp Suite Practice
+* [ ] OWASP Top 10 Examples
+* [ ] SQL Injection Demo
+* [ ] XSS Demo
+* [ ] CTF Writeups
+* [ ] Blue Team Labs
+* [ ] Digital Forensics Notes
+
+---
+
+# 🤖 Artificial Intelligence
+
+* [ ] Image Classification
+* [ ] Object Detection (YOLO)
+* [ ] Computer Vision Projects
+* [ ] TensorFlow Basics
+* [ ] PyTorch Basics
+* [ ] AI Model Deployment
+* [ ] Roboflow Experiments
+
+---
+
+# 💻 Web Development
+
+* [ ] Personal Portfolio Website
+* [ ] Laravel CRUD Application
+* [ ] REST API Project
+* [ ] Authentication System
+* [ ] Admin Dashboard
+* [ ] Responsive UI Design
+* [ ] Docker Deployment
+
+---
+
+# 📱 Mobile Development
+
+* [ ] Flutter Notes
+* [ ] Expense Tracker App
+* [ ] Weather App
+* [ ] Authentication Example
+* [ ] Firebase Integration
+
+---
+
+# 🐧 Linux & DevOps
+
+* [ ] Linux Command Guide
+* [ ] Bash Scripting
+* [ ] Docker Basics
+* [ ] Docker Compose
+* [ ] Git & GitHub Workflow
+* [ ] CI/CD Introduction
+* [ ] Nginx Reverse Proxy
+
+---
+
+# ☁️ Cloud Computing
+
+* [ ] AWS EC2 Deployment
+* [ ] AWS S3
+* [ ] Azure Fundamentals
+* [ ] Google Cloud Basics
+* [ ] Cloud Security Notes
+
+---
+
+# 📊 Data & Databases
+
+* [ ] MySQL Fundamentals
+* [ ] Database Normalization
+* [ ] SQL Optimization
+* [ ] MongoDB Basics
+* [ ] PostgreSQL Introduction
+
+---
+
+# 🏆 Capture The Flag
+
+* [ ] PicoCTF Writeups
+* [ ] Hack The Box Writeups
+* [ ] TryHackMe Notes
+* [ ] PortSwigger Academy Labs
+* [ ] OverTheWire Walkthrough
+
+---
+
+# 📚 Study Notes
+
+* [ ] Data Structures
+* [ ] Algorithms
+* [ ] Operating Systems
+* [ ] Computer Networks
+* [ ] Database Systems
+* [ ] Automata Theory
+* [ ] Software Engineering
+
+---
+
+# 🚀 Future Projects
+
+* [ ] Network Monitoring Dashboard
+* [ ] Vulnerability Scanner
+* [ ] Password Manager
+* [ ] IoT Smart Monitoring System
+* [ ] AI Security Assistant
+* [ ] Home Lab Documentation
+* [ ] SIEM Mini Project
+
+---
+
+## Long-Term Goal
+
+Build a portfolio that demonstrates practical skills in networking, cybersecurity, artificial intelligence, software engineering, and cloud computing through real-world projects and open-source contributions.
